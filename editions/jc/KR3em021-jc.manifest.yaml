@@ -1,0 +1,294 @@
+canonical_identifier: bkk:krp/KR3em021/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em021/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 尤氏喉症指南
+  identifiers:
+    krp: KR3em021
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em021.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em021_000-jc.yaml, hash: 'sha256:aa0b6bd2cda087a601fd3491fa308bf03d4c97c0b7c3f5dc26c3f8dc97a38911'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em021_000-jc.markers.yaml, hash: 'sha256:fdcde4c0ca5e3c8e249a92c460ffe60354548f8093ca79f41ece1e0660102c94'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 153
+  label: 咽喉大綱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d3.h1s1
+    span:
+    - body
+    - 153
+    - 336
+  label: 咽舌兩經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d4.h1s1
+    span:
+    - body
+    - 336
+    - 804
+  label: 看症凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d5.h1s1
+    span:
+    - body
+    - 804
+    - 3359
+  label: 治症秘訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d6.h1s1
+    span:
+    - body
+    - 3359
+    - 3881
+  label: 用藥秘訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d7.h1s1
+    span:
+    - body
+    - 3881
+    - 5022
+  label: 各症形象主治歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d8.h1s1
+    span:
+    - body
+    - 5022
+    - 5195
+  label: 喉症總論歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d9.h1s1
+    span:
+    - body
+    - 5195
+    - 5423
+  label: 辨症總訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d10.h1s1
+    span:
+    - body
+    - 5423
+    - 5708
+  label: 看症治法歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d11.h1s1
+    span:
+    - body
+    - 5708
+    - 6119
+  label: 辨證用藥歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d12.h1s1
+    span:
+    - body
+    - 6119
+    - 6194
+  label: 喉症通劑歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d13.h1s1
+    span:
+    - body
+    - 6194
+    - 6269
+  label: 舌症通劑歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d14.h1s1
+    span:
+    - body
+    - 6269
+    - 6330
+  label: 牙症通劑歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d15.h1s1
+    span:
+    - body
+    - 6330
+    - 6363
+  label: 喉症煎方歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d16.h1s1
+    span:
+    - body
+    - 6363
+    - 6510
+  label: 喉科諸症煎劑歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d17.h1s1
+    span:
+    - body
+    - 6510
+    - 6630
+  label: 喉舌牙三症煎方歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d18.h1s1
+    span:
+    - body
+    - 6630
+    - 6837
+  label: 喉舌牙三症並牙疳煎方歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d19.h1s1
+    span:
+    - body
+    - 6837
+    - 7040
+  label: 玉丹配法歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d20.h1s1
+    span:
+    - body
+    - 7040
+    - 7197
+  label: 金丹配法歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d21.h1s1
+    span:
+    - body
+    - 7197
+    - 7280
+  label: 開關散歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d22.h1s1
+    span:
+    - body
+    - 7280
+    - 7410
+  label: 真禁藥配法歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d23.h1s1
+    span:
+    - body
+    - 7410
+    - 7717
+  label: 八味口疳藥歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d24.h1s1
+    span:
+    - body
+    - 7717
+    - 7816
+  label: 珠黃散配合歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d25.h1s1
+    span:
+    - body
+    - 7816
+    - 7907
+  label: 口碎配合藥歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d26.h1s1
+    span:
+    - body
+    - 7907
+    - 7976
+  label: 龍溪散配合歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d27.h1s1
+    span:
+    - body
+    - 7976
+    - 8053
+  label: 吹喉散配合歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em021_jc_000-d28.h1s1
+    span:
+    - body
+    - 8053
+    - 11013
+  label: 附尤氏喉症秘方
+  type: section
+  level: 1
+hash: sha256:32b49b8ab829a06c9b1f2e5798e73ec79560e2b1c375baf72c9ff8402d95e08d
