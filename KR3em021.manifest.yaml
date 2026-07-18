@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3em021_000.yaml, hash: 'sha256:03d0694f299b591e0fcdf48e0d2924af1c41017ffd3ae61997f86b4cb6a31001'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em021_000.markers.yaml, hash: 'sha256:8c43a448f844b9aefb25de187aeb7fe50678f0a260d9bd2ea0cd6d660356134e'}
+  - {seq: 0, role: markers, filename: assets/KR3em021_000.markers.yaml, hash: 'sha256:9e5b109f45390f8ecfed91e471a367c89780caf0ff236d06e3d4f1049906ce81'}
 table_of_contents:
 - ref:
     seq: 0
@@ -291,7 +291,7 @@ table_of_contents:
   label: 附尤氏喉症秘方
   type: section
   level: 1
-hash: sha256:fcbdb2b2e18b7d3bbce28224ef5a51c7c19b7a73bf8d6bc489e1db1fa3550373
+hash: sha256:7f1724717a4b5afab5fff72b58d8b5a26bab43b0e34b32565c83cf16470a511d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
